@@ -15,7 +15,6 @@ section {
     position: relative;
     width: 100%;
     height: 100vh;
-    background-color: red;
     background-size: cover;
 }
 
@@ -30,4 +29,16 @@ h2 {
     color: yellow;
     text-align: center;
     font-size: 50px;
+}
+
+#rosso {
+    background-color: red;
+}
+
+#verde {
+    background-color: green;
+}
+
+#giallo {
+    background-color: yellow;
 }
